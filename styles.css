@@ -31,14 +31,14 @@
     gap: 5px;
 }
 
-.numbers, .operations, .clear{
+.numbers, .operations, #clear{
     display: grid;
     place-items: center;
     font-size: xx-large;
     border-radius: 5px;
 }
 
-.clear{
+#clear{
     background-color: red;
     color: white;
 
